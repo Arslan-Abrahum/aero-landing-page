@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/aero-landing-page/static/css/main.72f01ff6.css",
+    "main.js": "/aero-landing-page/static/js/main.a40434ee.js",
+    "static/media/img1.png": "/aero-landing-page/static/media/img1.4ad813f2b8f1532c0788.png",
+    "static/media/panaflex2.jpg": "/aero-landing-page/static/media/panaflex2.4f6bff3cac923d934d13.jpg",
+    "static/media/Screenshot 2024-01-22 180750.png": "/aero-landing-page/static/media/Screenshot 2024-01-22 180750.35ca6936c6b9742d287c.png",
+    "static/media/slider2-aero1-1920x846_1920x846.progressive.jpg": "/aero-landing-page/static/media/slider2-aero1-1920x846_1920x846.progressive.dcc26d812da20d1730a8.jpg",
+    "static/media/slider3-aero1-1920x846_1920x846.progressive.jpg": "/aero-landing-page/static/media/slider3-aero1-1920x846_1920x846.progressive.ec588a1b553bec6d15b7.jpg",
+    "static/media/slider1.jpg": "/aero-landing-page/static/media/slider1.1d6c7a690df57921fde0.jpg",
+    "static/media/img2-bottom-aero1.webp": "/aero-landing-page/static/media/img2-bottom-aero1.026a5e5ce05c6395a24f.webp",
+    "static/media/panaflex3.jpg": "/aero-landing-page/static/media/panaflex3.20db2b0aabcf83c32bca.jpg",
+    "static/media/panaflex4.jpg": "/aero-landing-page/static/media/panaflex4.8a1fb6ade5f9279a3ae1.jpg",
+    "static/media/panaflex1.jpg": "/aero-landing-page/static/media/panaflex1.f45a17f8ee7e9a389859.jpg",
+    "static/media/panaflex5.jpg": "/aero-landing-page/static/media/panaflex5.b05ada9d623679f2a451.jpg",
+    "static/media/img1-bottom-aero1.webp": "/aero-landing-page/static/media/img1-bottom-aero1.8dcd19c478ca4fe79eac.webp",
+    "static/media/bkg_testtimor.jpg": "/aero-landing-page/static/media/bkg_testtimor.024fee5d6b83d74def31.jpg",
+    "static/media/2-600x600_400x400_crop_center.jpg": "/aero-landing-page/static/media/2-600x600_400x400_crop_center.508341e882b7c00e3629.jpg",
+    "static/media/bkg_footer_c0f71867-38e3-492b-995f-7d0269b97db1.jpg": "/aero-landing-page/static/media/bkg_footer_c0f71867-38e3-492b-995f-7d0269b97db1.2a5ba6065a161fcded79.jpg",
+    "static/media/1-600x600_400x400_crop_center.jpg": "/aero-landing-page/static/media/1-600x600_400x400_crop_center.a9137b5886849cd70ced.jpg",
+    "static/media/5-600x600_6bffe399-97df-4b21-9769-1ce9cd38e92b_400x400_crop_center.jpg": "/aero-landing-page/static/media/5-600x600_6bffe399-97df-4b21-9769-1ce9cd38e92b_400x400_crop_center.da0ae974982674276751.jpg",
+    "static/media/img1-top-aero1.jpg": "/aero-landing-page/static/media/img1-top-aero1.fe85a4615b56c1c4578f.jpg",
+    "static/media/img3-top-aero1.jpg": "/aero-landing-page/static/media/img3-top-aero1.ea89b2fc796466b88c38.jpg",
+    "static/media/img2-top-aero1.jpg": "/aero-landing-page/static/media/img2-top-aero1.3bd40fca8b70d1004af5.jpg",
+    "index.html": "/aero-landing-page/index.html",
+    "main.72f01ff6.css.map": "/aero-landing-page/static/css/main.72f01ff6.css.map",
+    "main.a40434ee.js.map": "/aero-landing-page/static/js/main.a40434ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72f01ff6.css",
+    "static/js/main.a40434ee.js"
+  ]
+}
